@@ -23,7 +23,7 @@ namespace PhotoAlbum
             var stringBuilder = new StringBuilder();
             if (Photos.Count == 0)
             {
-                stringBuilder.AppendLine($"No photos found.");
+                stringBuilder.AppendLine("No photos found.");
                 return stringBuilder.ToString();
             }
 
