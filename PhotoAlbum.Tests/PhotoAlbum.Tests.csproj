@@ -17,4 +17,7 @@
     <ProjectReference Include="..\PhotoAlbum\PhotoAlbum.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ModelsTests\" />
+  </ItemGroup>
 </Project>
