@@ -6,4 +6,5 @@ Inside directory `/PhotoAlbum` perform the following commands to build and run t
 2. dotnet run ```{integer}``` _(integer values from **1-100** are valid)_
 
 Inside directory `/PhotoAlbumTests` perform the following command to run the application tests.
-1. dotnet test
+1. dotnet build
+2. dotnet test
