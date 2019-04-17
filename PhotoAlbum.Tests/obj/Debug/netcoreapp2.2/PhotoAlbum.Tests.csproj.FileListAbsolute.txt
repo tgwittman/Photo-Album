@@ -1,0 +1,17 @@
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/obj/Debug/netcoreapp2.2/PhotoAlbum.Tests.csprojAssemblyReference.cache
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/obj/Debug/netcoreapp2.2/PhotoAlbum.Tests.csproj.CoreCompileInputs.cache
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/obj/Debug/netcoreapp2.2/PhotoAlbum.Tests.AssemblyInfoInputs.cache
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/obj/Debug/netcoreapp2.2/PhotoAlbum.Tests.AssemblyInfo.cs
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/PhotoAlbum.Tests.deps.json
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/PhotoAlbum.Tests.runtimeconfig.json
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/PhotoAlbum.Tests.runtimeconfig.dev.json
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/PhotoAlbum.Tests.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/PhotoAlbum.Tests.pdb
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/PhotoAlbum.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/bin/Debug/netcoreapp2.2/PhotoAlbum.pdb
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/obj/Debug/netcoreapp2.2/PhotoAlbum.Tests.csproj.CopyComplete
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/obj/Debug/netcoreapp2.2/PhotoAlbum.Tests.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum.Tests/obj/Debug/netcoreapp2.2/PhotoAlbum.Tests.pdb

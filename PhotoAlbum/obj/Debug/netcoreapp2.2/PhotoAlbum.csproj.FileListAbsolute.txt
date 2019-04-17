@@ -1,0 +1,11 @@
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/obj/Debug/netcoreapp2.2/PhotoAlbum.csprojAssemblyReference.cache
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/obj/Debug/netcoreapp2.2/PhotoAlbum.csproj.CoreCompileInputs.cache
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/obj/Debug/netcoreapp2.2/PhotoAlbum.AssemblyInfoInputs.cache
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/obj/Debug/netcoreapp2.2/PhotoAlbum.AssemblyInfo.cs
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/bin/Debug/netcoreapp2.2/PhotoAlbum.deps.json
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/bin/Debug/netcoreapp2.2/PhotoAlbum.runtimeconfig.json
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/bin/Debug/netcoreapp2.2/PhotoAlbum.runtimeconfig.dev.json
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/bin/Debug/netcoreapp2.2/PhotoAlbum.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/bin/Debug/netcoreapp2.2/PhotoAlbum.pdb
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/obj/Debug/netcoreapp2.2/PhotoAlbum.dll
+/Users/timothywittman/Projects/PhotoAlbum/PhotoAlbum/obj/Debug/netcoreapp2.2/PhotoAlbum.pdb
